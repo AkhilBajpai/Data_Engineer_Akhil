@@ -5,7 +5,7 @@ Steps followed for development :
 
 Step 1) Refer document : **Test_with_code.pdf** -> Explored the data , read the requirements, wrote test cases to be covered. Have attached the code in this document for ease of evaluation.
 
-Step 2) Refer document ** Akhil_Bajpai_PEI.xlsx**  for architecture & planning. Started with loading data into databricks volume. Read those raw into raw_layer. Performed tests to ensure data integrity and correctness w.r.t source. Once all test cases passed moved with next step. 
+Step 2) Refer document **Akhil_Bajpai_PEI.xlsx**  for architecture & planning. Started with loading data into databricks volume. Read those raw into raw_layer. Performed tests to ensure data integrity and correctness w.r.t source. Once all test cases passed moved with next step. 
 
 Step 3) Refer **PEI_Code_Akhil.ipynb** For the entire code. Post loading data in layer 2 and performing tests. Transformation done, stored results in refined_layer and performed tests to ensure all looks good.
 
